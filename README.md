@@ -7,7 +7,7 @@
 
 - 🌱 Currently exploring **Reinforcement Learning**, **Neural Networks**  and **ROS 2**
 - 📫 Reach me at **mandeepsapkota13@gmail.com**
-- Working on <a href = "https://youtube.com/@tensorletters" target = "blank"> TensorLetters</a>
+- Working on <a href = "https://youtube.com/@tensorletters" _target = "blank"> TensorLetters</a>
 
 <h3>Connect with me:</h3>
 <p>
